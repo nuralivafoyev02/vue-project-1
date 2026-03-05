@@ -22,7 +22,7 @@
 </template>
 <script setup>
 import TopUp from '../assets/topup.png';
-import Rectangle from '../assets/rectangle.png';
+import Rectangle from '../assets/Rectangle.png';
 import CountImg from '../assets/count230.png';
 import DriveTraffic from '../assets/drivetraffic.png';
 
